@@ -73,6 +73,10 @@ public class ReadJson {
 			return askills.size();
 		}
 		//just another test line
+		
+		
+		
+		//add a second line
 		else		return 0;
 	}
 
